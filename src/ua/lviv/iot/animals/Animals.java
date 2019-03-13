@@ -52,21 +52,5 @@ public class Animals {
 		this.size = size;
 	}
 
-	/*@Override
-	public String toString() {
-		return " [sex=" + sex + ", typeOfFood=" + typeOfFood + ", weightOfConsumingMeal=" + weightOfConsumingMeal
-				+ ", size=" + size + "]";
-	}
-
-	
-
-/*	@Override
-	public String toString() {
-		return "Animals [getSex()=" + getSex() + ", getTypeOfFood()=" + getTypeOfFood()
-				+ ", getWeightOfConsumingMeal()=" + getWeightOfConsumingMeal() + ", getSize()=" + getSize() + "]";
-	} */
-	
-	
-	
 
 }

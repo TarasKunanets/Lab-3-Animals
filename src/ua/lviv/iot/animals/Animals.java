@@ -52,5 +52,4 @@ public class Animals {
 		this.size = size;
 	}
 
-
 }
